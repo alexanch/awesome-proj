@@ -11,5 +11,5 @@ Just a list of projects that I am willing to implement in near future
 7. Anormal Behavior Detection in Crowds
 8. Image generation using deep learning (for any purpose)
 9. Unsupervised tracking of endoscopic tools in real-time
-
+10. Increase pigmentation (wrinkles) in real time
 
