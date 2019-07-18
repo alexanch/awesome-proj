@@ -12,4 +12,4 @@ Just a list of projects that I am willing to implement in near future
 8. Image generation using deep learning (for any purpose)
 9. Unsupervised tracking of endoscopic tools in real-time
 10. Increase pigmentation (wrinkles) in real time
-
+11. Compare RMSE with other metrics (Colorimetric metrics, Spectral metrics, Metameric indexes,Weighted spectral metrics)
