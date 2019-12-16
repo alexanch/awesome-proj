@@ -15,3 +15,4 @@ Just a list of projects that I am willing to implement in near future
 11. Compare RMSE with other metrics (Colorimetric metrics, Spectral metrics, Metameric indexes,Weighted spectral metrics)
 12. Emotion recognition from web camera.
 13. Speech tone analysis (inspired by https://www.youtube.com/watch?v=89FHXM2q36s)  IBM WATSON
+14. Web pictures animation by Chrome plugin
