@@ -19,3 +19,4 @@ Just a list of projects that I am willing to implement in near future
 15. Web plugin for item recognition from Youtube
 16. Counterfereit production identification app 
 17. Influencer analysis for collabs with brands (best match)
+18. Tree leaf identification for foresters
