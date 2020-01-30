@@ -20,3 +20,5 @@ Just a list of projects that I am willing to implement in near future
 16. Counterfereit production identification app 
 17. Influencer analysis for collabs with brands (best match)
 18. Tree leaf identification for foresters
+19. Mimic recognition using deep learning 
+20. Use screen of Iphone (calibrated) for imaging setup. Screen will show different colors and we can take a spectral image (spectral           reconstruction)
