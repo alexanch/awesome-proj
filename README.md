@@ -23,3 +23,4 @@ Just a list of projects that I am willing to implement in near future
 19. Mimic recognition using deep learning 
 20. Use screen of Iphone (calibrated) for imaging setup. Screen will show different colors and we can take a spectral image (spectral           reconstruction)
 21. Receipt recommender (using ingredients)
+22. Bullying/inappropriate behavior detection in social networks
